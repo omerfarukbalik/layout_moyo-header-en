@@ -27,6 +27,10 @@ body {
   margin-left: 20px;
 }
 
+.nav__item:first-child {
+  margin: 0;
+}
+
 .nav__link {
   display: flex;
   position: relative;
